@@ -1,5 +1,7 @@
 # QR-Generator
 
+[Live Demo](https://anoopsingh1996.github.io/QR-Generator/)
+
 
 ###  QR code generator using url
 
